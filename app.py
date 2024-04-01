@@ -6,7 +6,7 @@ import re
 from datetime import datetime, timedelta
 
 
-DB_CONFIG='mysql+pymysql://root:Haifa319*@localhost:3306/course_quest'
+DB_CONFIG='mysql+pymysql://root:N4j1n4j1@localhost:3306/course_quest'
 app = Flask(__name__)
 ma = Marshmallow(app)
 
